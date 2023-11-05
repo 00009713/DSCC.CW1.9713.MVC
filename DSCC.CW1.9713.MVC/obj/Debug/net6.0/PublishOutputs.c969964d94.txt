@@ -1,0 +1,8 @@
+C:\SG\Git\app\DSCC.CW1.9713.MVC.exe
+C:\SG\Git\app\appsettings.Development.json
+C:\SG\Git\app\appsettings.json
+C:\SG\Git\app\DSCC.CW1.9713.MVC.dll
+C:\SG\Git\app\DSCC.CW1.9713.MVC.deps.json
+C:\SG\Git\app\DSCC.CW1.9713.MVC.runtimeconfig.json
+C:\SG\Git\app\DSCC.CW1.9713.MVC.pdb
+C:\SG\Git\app\Newtonsoft.Json.dll
