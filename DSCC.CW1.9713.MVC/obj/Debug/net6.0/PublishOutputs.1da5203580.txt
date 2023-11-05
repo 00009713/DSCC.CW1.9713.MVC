@@ -1,0 +1,8 @@
+C:\SG\Git\DSCC.CW1.9713.MVC\DSCC.CW1.9713.MVC\bin\Debug\net6.0\publish\DSCC.CW1.9713.MVC.exe
+C:\SG\Git\DSCC.CW1.9713.MVC\DSCC.CW1.9713.MVC\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\SG\Git\DSCC.CW1.9713.MVC\DSCC.CW1.9713.MVC\bin\Debug\net6.0\publish\appsettings.json
+C:\SG\Git\DSCC.CW1.9713.MVC\DSCC.CW1.9713.MVC\bin\Debug\net6.0\publish\DSCC.CW1.9713.MVC.dll
+C:\SG\Git\DSCC.CW1.9713.MVC\DSCC.CW1.9713.MVC\bin\Debug\net6.0\publish\DSCC.CW1.9713.MVC.deps.json
+C:\SG\Git\DSCC.CW1.9713.MVC\DSCC.CW1.9713.MVC\bin\Debug\net6.0\publish\DSCC.CW1.9713.MVC.runtimeconfig.json
+C:\SG\Git\DSCC.CW1.9713.MVC\DSCC.CW1.9713.MVC\bin\Debug\net6.0\publish\DSCC.CW1.9713.MVC.pdb
+C:\SG\Git\DSCC.CW1.9713.MVC\DSCC.CW1.9713.MVC\bin\Debug\net6.0\publish\Newtonsoft.Json.dll
