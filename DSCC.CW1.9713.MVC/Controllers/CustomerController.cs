@@ -17,7 +17,7 @@ namespace DSCC.CW1._9713.MVC.Controllers
             _configuration = configuration;
         }
 
-        string BaseUrl = "http://localhost:5151/";
+        string BaseUrl = "http://ec2-51-20-114-113.eu-north-1.compute.amazonaws.com/";
 
         // GET: CustomerController
         public async Task<ActionResult> Index()
